@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "55433100807",
+    "project_id": "recetagourmet",
+    "storage_bucket": "recetagourmet.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:55433100807:android:95c818826ab0e705c3b4a2",
+        "android_client_info": {
+          "package_name": "com.example.firebasewithmvvm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "55433100807-vm14346cjd2jhc4320d3s530ukf1fkpm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfGv3SsAGM30FS42oDJtERBHQ5OfIbekg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "55433100807-vk0m3tp0ubm28j84n4j7qgr0qd93cc5l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:55433100807:android:f4ff126292002775c3b4a2",
+        "android_client_info": {
+          "package_name": "com.example.recetasgourmet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "55433100807-vm14346cjd2jhc4320d3s530ukf1fkpm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfGv3SsAGM30FS42oDJtERBHQ5OfIbekg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "55433100807-vk0m3tp0ubm28j84n4j7qgr0qd93cc5l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
